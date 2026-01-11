@@ -26,7 +26,7 @@ RESOURCES = {
         'local_path': os.path.join(MODELS_DIR, 'filenames.pkl')
     },
     'ResNet50':{
-        'url':'',
+        'url':'https://embeddingmodelfile.s3.ap-south-1.amazonaws.com/ResNet50_feature_extractor2.keras',
         'local_path':os.path.join(MODELS_DIR, 'ResNet50_feature_extractor2.keras')
     }
 }
