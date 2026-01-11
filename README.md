@@ -215,21 +215,6 @@ print(df.columns)
 4. Global Max Pooling applied
 5. Feature vector normalized using **L2 normalization**
 
-## Recommendation Engine
-
-### Baseline: KNN
-- Metric: **Cosine Similarity**
-- Brute-force search
-- Suitable for **small to medium-sized datasets**
-
-### ptimization: Annoy
-- Approximate Nearest Neighbor (ANN) search
-- Faster retrieval for **large-scale datasets**
-- Memory-efficient indexing
-
-Enables **near real-time recommendations at scale**.
-
----
 
 ## Cloud Storage with AWS S3
 
