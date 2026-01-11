@@ -1,0 +1,8 @@
+Flask
+numpy
+pandas
+Pillow
+scikit-learn
+tensorflow==2.20.0
+requests
+gunicorn
