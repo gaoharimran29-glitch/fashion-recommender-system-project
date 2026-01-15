@@ -6,6 +6,7 @@
 ## Project Site link
 - https://imranx.dpdns.org/
 - https://www.imranx.dpdns.org/
+- ( Now i down the site because of billing on AWS so you can run it locally and also dont forget to download the dataset )
 
 ## Overview
 This project is an **AI-powered Fashion Product Recommendation System** that suggests visually similar fashion products based on an uploaded image.
